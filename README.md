@@ -13,3 +13,4 @@ I'm thrilled to share the details of my recently created Excel dashboard, which 
 - **User-Friendly:** One of the key goals was to make data analysis more accessible and user-friendly. By bringing together these elements, I've created a powerful tool that takes data analysis to the next level.
 
 So, whether you're interested in Excel skills, data analysis, data visualization, or simply curious about how McDonald's is performing in South America, this dashboard is a prime example of what can be achieved.
+![21](https://github.com/mario21snow/Mcdonld-Dashoard/assets/102954942/4261c941-f643-4752-8cba-de127f56622f)
